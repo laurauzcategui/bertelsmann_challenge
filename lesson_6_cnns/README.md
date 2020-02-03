@@ -10,9 +10,11 @@ Notebooks:
 - [Learn how to apply filters to your own CNN](#conv_visualization.ipynb)
 - [Train a CIFAR classifier](#cifar10_cnn_exercise.ipynb), using convolutions and max pooling layers into a model
 - [Learn about max pooling](#maxpooling_visualization.ipynb), create your own max pooling layers and apply it to your images in your model
+- [Adding data augmentation to your model](#cifar10_cnn_augmentation.ipynb)
     
 
 Resources: 
  - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/#conv)
  - [Convolution Layers in Pytorch](https://pytorch.org/docs/stable/nn.html#convolution-layers)
  - [MaxPooling layers in Pytorch](https://pytorch.org/docs/stable/nn.html#pooling-layers)
+ - [Pytorch Transforms](https://pytorch.org/docs/stable/torchvision/transforms.html), useful for Augmentation

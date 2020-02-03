@@ -5,3 +5,4 @@ Cat_Dog_data*
 .vscode/
 py3/ 
 *.pth
+*.pt
