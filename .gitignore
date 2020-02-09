@@ -6,3 +6,8 @@ Cat_Dog_data*
 py3/ 
 *.pth
 *.pt
+*.net
+*.tar.gz
+
+MNIST/
+cifar-10-batches-py/
